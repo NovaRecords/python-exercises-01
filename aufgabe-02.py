@@ -10,3 +10,5 @@ print("Produkt:", a * b)
 print("Ganzzahliger Quotierung:", a // b)
 print("Rest der Division:", a % b)
 print("a hoch b:", a ** b)
+
+# Noch eine kleine veaenderung.
