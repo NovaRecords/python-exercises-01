@@ -9,3 +9,5 @@ print("Vorname:", first_name)
 print("Nachname:", last_name)
 print("Geburtsjahr:", birth_year)
 print("Fuehrerschein:", has_license)
+
+# Das ist eine Test.
